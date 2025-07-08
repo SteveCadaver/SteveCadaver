@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SteveCadaver
 - 👀 I’m interested in coding and Linux.
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Rust stuff.
+- 🌱 I’m currently learning Rust, Lua
+- 💞️ I’m looking to collaborate on Rust, Lua stuff.
 - 📫 How to reach me ...
 
 <!---
